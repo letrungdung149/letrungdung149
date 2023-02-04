@@ -21,14 +21,14 @@ My name is Dung Nui.<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=DATN&theme=vision-friendly-dark" />
 </a>    
 
-<a href="https://github.com/letrungdung149/the-band/">
+<a href="https://github.com/letrungdung149/workflow_management/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=the-band&theme=maroongold" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=workflow_management&theme=maroongold" />
 </a>
 <!-- 4 -->
-<a href="https://github.com/letrungdung149/html_snb/">
+<a href="https://github.com/letrungdung149/html/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=html_snb&theme=omni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=html&theme=omni" />
 </a>    
 
 <a href="https://github.com/letrungdung149/notes/">
