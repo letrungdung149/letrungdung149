@@ -13,7 +13,7 @@ My name is Dung Nui.<br>
 
 <a href="https://github.com/letrungdung149/angular100/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=angular100&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=angular100" />
 </a>
 
 <a href="https://github.com/letrungdung149/notes/">
