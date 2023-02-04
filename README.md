@@ -6,9 +6,9 @@ My name is De ve lô per Dũng Núi =))) .<br>
 
 ![Dung Nui github stats](https://github-readme-stats.vercel.app/api?username=letrungdung149&show_icons=true&theme=radical)
 
-<a href="https://github.com/letrungdung149/newtel/">
+<a href="https://github.com/letrungdung149/NewtelCA/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=newtel&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=NewtelCA&theme=radical" />
 </a>    
 
 <a href="https://github.com/letrungdung149/shop_phone/">
@@ -35,6 +35,5 @@ My name is De ve lô per Dũng Núi =))) .<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=letrungdung149&repo=notes&theme=ocean_dark" />
 </a>
-
 
  
